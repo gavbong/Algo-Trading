@@ -4,7 +4,7 @@ import numpy as np
 
 class BotTraderTest_1(GBAlgorithm):
 
-    def Initialize(self):
+    def Initialise(self):
         self.SetCash(100000)
 
         self.SetStartDate(2020,9,1)
