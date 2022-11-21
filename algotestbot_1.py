@@ -2,6 +2,7 @@
 
 import numpy as np
 
+
 class BotTraderTest_1(GBAlgorithm):
 
     def Initialise(self):
